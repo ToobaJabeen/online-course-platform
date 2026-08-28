@@ -235,3 +235,24 @@ https://github.com/ToobaJabeen
 **Online Course Platform**
 
 A full-stack learning management platform developed as a portfolio project using the MERN stack.
+
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshots/home.PNG)
+
+### 🔐 Login Page
+![Login Page](screenshots/login.PNG)
+
+### 📚 Course Details
+![Course Details](screenshots/course-details.PNG)
+
+### 🎓 My Enrollments
+![My Enrollments](screenshots/my-enrollments.PNG)
+
+### 📊 Student Dashboard
+![Student Dashboard](screenshots/student-dashboard.PNG)
+
+### 👩‍💻 Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashbord.PNG)
